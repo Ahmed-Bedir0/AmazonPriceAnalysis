@@ -1,0 +1,78 @@
+{
+  "products": {
+    "1": {
+      "asin": "B09YRS594P",
+      "url": "https://www.amazon.eg/dp/B09YRS594P",
+      "brand": "LG",
+      "price": 48500.00,
+      "stock": "Only 3 left in stock",
+      "title": "LG 1400 RPM Washer and Dryer Combo, 8 kg Wash/5 kg Dry - Graphite",
+      "rating": 3.8,
+      "images": ["https://m.media-amazon.com/images/I/715RsqWedNL._AC_SL1500_.jpg"],
+      "currency": "EGP",
+      "amazon_domain": "eg",
+      "geo_location": "Cairo, 11511",
+      "created_at": "2026-01-28T22:48:00.000000"
+    },
+    "2": {
+      "asin": "B0BJ7TQBS4",
+      "parent_asin": "B09YRS594P",
+      "url": "https://www.amazon.eg/dp/B0BJ7TQBS4",
+      "brand": "LG",
+      "price": 54200.00,
+      "stock": "In Stock",
+      "title": "LG Smart Front Load WashTower - Cairo Edition",
+      "rating": 4.3,
+      "images": ["https://m.media-amazon.com/images/I/51yIwpJRtqL._AC_SL1500_.jpg"],
+      "currency": "EGP",
+      "amazon_domain": "eg",
+      "geo_location": "Cairo, 11511",
+      "created_at": "2026-01-28T22:49:00.000000"
+    },
+    "3": {
+      "asin": "B0CX518TCS",
+      "parent_asin": "B09YRS594P",
+      "url": "https://www.amazon.eg/dp/B0CX518TCS",
+      "brand": "Midea",
+      "price": 32900.00,
+      "stock": "In Stock",
+      "title": "Midea 24 Inch Washer and Dryer Combo - Compact",
+      "rating": 3.6,
+      "images": ["https://m.media-amazon.com/images/I/712XuB3zbYL._AC_SL1500_.jpg"],
+      "currency": "EGP",
+      "amazon_domain": "eg",
+      "geo_location": "Cairo, 11511",
+      "created_at": "2026-01-28T22:49:00.000000"
+    },
+    "4": {
+      "asin": "B08W8S4N9F",
+      "parent_asin": "B09YRS594P",
+      "url": "https://www.amazon.eg/dp/B08W8S4N9F",
+      "brand": "Samsung",
+      "price": 41200.00,
+      "stock": "In Stock",
+      "title": "Samsung Ecobubble Washer & Dryer with AI Control",
+      "rating": 4.5,
+      "images": ["https://m.media-amazon.com/images/I/61Nl-XpS9FL._AC_SL1200_.jpg"],
+      "currency": "EGP",
+      "amazon_domain": "eg",
+      "geo_location": "Cairo, 11511",
+      "created_at": "2026-01-28T22:49:00.000000"
+    },
+    "5": {
+      "asin": "B0912M6ZVN",
+      "parent_asin": "B09YRS594P",
+      "url": "https://www.amazon.eg/dp/B0912M6ZVN",
+      "brand": "Toshiba",
+      "price": 28500.00,
+      "stock": "Only 5 left",
+      "title": "Toshiba Real INVERTER Washer & Dryer - Silver Finish",
+      "rating": 4.1,
+      "images": ["https://m.media-amazon.com/images/I/61M5M97-YDL._AC_SL1500_.jpg"],
+      "currency": "EGP",
+      "amazon_domain": "eg",
+      "geo_location": "Cairo, 11511",
+      "created_at": "2026-01-28T22:49:00.000000"
+    }
+  }
+}
